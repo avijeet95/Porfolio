@@ -47,6 +47,10 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	.pro{
+			border: 0;
+
+		}
 
 /* Box Model */
 
@@ -1101,6 +1105,9 @@
 
 		a img {
 			border: 0;
+			width: 100px;
+			height: 200px;
+
 		}
 
 	b, strong {
